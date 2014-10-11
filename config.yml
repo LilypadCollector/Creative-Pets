@@ -1,0 +1,44 @@
+Chicken:
+  Price: 100
+Cow:
+  price: 200
+Horse:
+  price: 300
+Ocelot:
+  price: 400
+Pig:
+  Price: 500
+Sheep:
+  Price: 600
+Bat:
+  Price: 700
+Mooshroom:
+  Price: 800
+Squid:
+  Price: 900
+Villager:
+  Price: 1000
+Cavespider:
+  Price: 1100
+Enderman:
+  Price: 1200
+Wolf:
+  Price: 1300
+ZombiePigman:
+  Price: 1400
+Blaze:
+  Price: 1500
+Creeper:
+  Price: 1600
+MagmaCube:
+  Price: 1700  
+Silverfish:
+  Price: 1800
+Skeleton:
+  Price: 1900
+Slime:
+  Price: 2000
+Witch:
+  Price: 2100
+Zombie:
+  Price: 2200  

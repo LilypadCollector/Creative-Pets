@@ -1,0 +1,8 @@
+name: BizPets
+version: 0.1
+main: me.bizcraft.pets.Pets
+description: BizCraft pets!
+commands:
+    pets:
+      usage: /<command>
+      description: Opens up pet menu
